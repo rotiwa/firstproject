@@ -18,8 +18,8 @@
     <plugins>
 <plugin>
   <groupId>org.codehaus.mojo</groupId>
-  <artifactId>exec-maven-plugin</artifactId>
-  <version>1.6.0</version>
+  <artifactId>sonar-maven-plugin</artifactId>
+  <version>3.0.2</version>
   <configuration>
    <executable>docker</executable>
     <arguments>
